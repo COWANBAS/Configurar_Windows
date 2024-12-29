@@ -18,6 +18,6 @@ O script tem incluido um comando para remover a telemetria da Nvidia, no caso se
 
 ![image](https://github.com/user-attachments/assets/60ae72a8-66da-4851-b18c-9d5916361a4a)
 
-O script não remove os serviços mas coloca os mais utilizados por um usuario convencional em modo manual para que sejam acessivel quando for executar alguma aplicação que necessita dele, mas desativa os que não são tão comuns de serem usados deixando o total de serviços muito baixos
+O script não remove os serviços mas coloca os mais utilizados por um usuario convencional em modo manual para que sejam acessivel quando for executar alguma aplicação que necessita dele, mas desativa os que não são tão comuns de serem usados deixando o total de serviços muito menor do que o de costume.
 
 ![image](https://github.com/user-attachments/assets/c6e645e4-812e-4fda-a1cd-5b46c723cd85)
