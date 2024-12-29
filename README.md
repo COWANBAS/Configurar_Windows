@@ -14,4 +14,6 @@ No regedit as alterações foram executadas na parte de Prefetch Parameters Supe
 
 ![image](https://github.com/user-attachments/assets/da198e41-a8b5-40c5-9037-8b197346d210)
 
-O script conta com 4788 linhas de codigo e normal que demore dentre 5 a 10 minutos para que seja completamente executado.
+O script tem incluido um comando para remover a telemetria da Nvidia, no caso se vc escolher desinstalar o Nvidia shadowplay (Gravador da Nvidia) não funcionara mais para não desinstalar a telemetria da nvidia basta recusar quando a janela da Nvidia aparecer no caso a unica coisa da nvidia que existira no computador sera os driver graficos funcionando normalmente.
+
+![image](https://github.com/user-attachments/assets/60ae72a8-66da-4851-b18c-9d5916361a4a)
