@@ -1,4 +1,4 @@
-﻿C:
+C:
 cls
 @Echo File by Kauan Fonseca
 :: Limpar pasta temp ::
@@ -228,7 +228,6 @@ set "vanguardLogsPath=C:\Program Files\Riot Vanguard\Logs"
 del $null 
 del index.dat/S 
 del c:\WIN386.SWP 
-Del /q/f/a/s *.bat 
 Del /q/f/a/s *.gif 
 del *.log /a /s /q /f
 del "%temp%" /s /f /q
